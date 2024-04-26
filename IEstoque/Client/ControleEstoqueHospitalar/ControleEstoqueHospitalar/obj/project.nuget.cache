@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5TMQ6QelkKxHvQ7NxlGR7p4YxhbcBIIR/Ph63bJUiA+aMZBp2uJYHis9QONDCIJcbNDDtarf5EhK5HHuPEsgDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\source\\repos\\ControleEstoqueHospitalar\\ControleEstoqueHospitalar\\ControleEstoqueHospitalar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.3.952\\mqttnet.extensions.managedclient.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}
